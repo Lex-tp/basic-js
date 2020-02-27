@@ -8,5 +8,4 @@ module.exports = function dateSample(sampleActivity) {
   }else{
     return false;
   }
-  // remove line with error and write your code here
 };
