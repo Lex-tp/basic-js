@@ -23,7 +23,6 @@ const chainMaker = {
     let newChain=this.chain.join('~~');
     this.chain=[];
     return newChain;
-    // remove line with error and write your code here
   }
 };
 
